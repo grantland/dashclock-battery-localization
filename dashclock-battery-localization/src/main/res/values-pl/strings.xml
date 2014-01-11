@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Translated by
+ * Piotrek Paszek <pitusek513@gmail.com>
+ */
+-->
+<resources>
+    <string name="extention_name">Bateria</string>
+    <string name="extension_description">Pokazuje stan naładowania, poziom baterii i inne informacje z nią związane.</string>
+    <string name="label_settings">Ustawienia Battery Extension</string>
+
+    <string name="status_template">%d%%</string>
+
+    <string name="unknown">Nieznany</string>
+
+    <string name="status_unknown">@string/unknown</string>
+    <string name="status_discharging">Rozładowywanie</string>
+    <string name="status_charging">Ładowanie</string>
+    <string name="status_full">Naładowany</string>
+    <string name="status_not_charging">Nie ładuję</string>
+
+    <string name="charging_template">Ładowanie (%s)</string>
+    <string name="plugtype_wireless">Bezprzew.</string>
+
+    <string name="discharging_template">%s na baterii</string>
+
+    <string name="estimating_time">Obliczam czas</string>
+    <string name="remaining_on_battery">Pozostało %s</string>
+    <string name="until_full">%s do pełnego naładow.</string>
+    <string name="remaining_not_charging">Bateria nie jest ładowana</string>
+    <string name="remaining_full">Battery jest pełna</string>
+
+    <string name="uptime">Użycie: %s</string>
+    <string name="elapsed_realtime">W spoczynku: %s</string>
+
+    <string name="template_health">Stan baterii: %s</string>
+    <string name="health_unknown">@string/unknown</string>
+    <string name="health_good">Dobry</string>
+    <string name="health_overheat">Przegrzanie</string>
+    <string name="health_dead">Do wymiany</string>
+    <string name="health_over_voltage">Wysokie napięcie</string>
+    <string name="health_unspecified_failure">Nieznany błąd</string>
+    <string name="health_cold">Zimna</string>
+
+    <plurals name="days">
+        <item quantity="one">%d dzień</item>
+        <item quantity="other">%d dni</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d godzina</item>
+        <item quantity="other">%d godzin</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d minuta</item>
+        <item quantity="other">%d minuta</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="other">%d sekunda</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">O programie</string>
+    <string name="close">Zamknij</string>
+
+    <string name="about_body">"&lt;b>by&lt;/b> &lt;a href=https://twitter.com/grantland>Grantland Chew&lt;/a>&lt;br>&lt;br>
+        Podziękowania dla &lt;a href=https://twitter.com/romannurik>Roman Nurik&lt;/a> za &lt;a href=https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock>DashClock&lt;/a> i otwarcie źródeł tego programu."</string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="display_when_title">Pokaż Battery Extension</string>
+    <string name="display_time_on_battery_title">Pokaż czas na baterii</string>
+    <string name="display_time_on_battery_message">Pokaż ilość czasu jaką to urządzenie pracuje na baterii.</string>
+    <string name="display_time_remaining_title">Pokaż pozostały czas do rozładowania/naładowania</string>
+    <string name="display_time_remaining_message">Pokaż ilość czasu jaką to urządzenie może pracować jeszcze na baterii lub zostać naładowane do pełna.</string>
+    <string name="display_uptime_title">Pokaż użycie systemu</string>
+    <string name="display_uptime_message">Pokaż ilość czasu od uruchomienia systemu, wyłączając czas spędzony w śnie.</string>
+    <string name="display_elapsed_realtime_title">Pokaż czas systemu</string>
+    <string name="display_elapsed_realtime_message">Pokaż ilość czasu od uruchomienia systemu, włączając w to czas spędzony w śnie.</string>
+    <string name="display_details_title">Pokaż szczegóły</string>
+    <string name="display_temperature_units_title">Jednostki temperatury</string>
+    <string name="hide">Ukryj</string>
+    <string name="none">Brak</string>
+
+    <string name="health">Stan baterii</string>
+    <string name="temperature">Temperatura</string>
+    <string name="voltage">Napięcie</string>
+    <string name="technology">Technologia</string>
+
+    <string name="donate_title">Wesprzyj</string>
+    <string name="donate_body">Pokaż jak doceniasz czas i wysiłek poświęcony w tworzenie DashClock Battery Extension poprzez dotację dla developera.</string>
+    <string name="donate_max">"Wow, wsparłeś mnie najwyższą możliwą kwotą, dzięki!"</string>
+    <string name="donate_thank_you">Dzięki za wsparcie!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Kwota</b>
+        ]]></string>
+
+    <string name="support_donate_title">@string/donate_title</string>
+    <string name="support_donate_summary">Pokaż wsparcie dla DashClock Battery Extension.</string>
+    <string name="support_listing_title">Zobacz na Google Play</string>
+    <string name="support_listing_summary">Udostępnij, oceń, daj +1 lub skomentuj DashClock Battery Extension.</string>
+    <string name="support_contact_title">Napisz wiadomość do developera</string>
+    <string name="support_contact_summary">@string/developer_email</string>
+</resources>

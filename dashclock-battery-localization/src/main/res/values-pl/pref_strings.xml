@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Translated by
+ * Piotrek Paszek <pitusek513@gmail.com>
+ */
+-->
+<resources>
+    <!-- Universal settings preferences -->
+    <string name="pref_shortcut_title">Skrót</string>
+    <string name="pref_shortcut_default">(Domyślny)</string>
+    <string name="title_apps">Aplikacje</string>
+    <string name="title_shortcuts">Skróty</string>
+</resources>

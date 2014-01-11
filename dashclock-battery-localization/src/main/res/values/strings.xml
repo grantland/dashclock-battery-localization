@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DashClock Battery Extension</string>
+
+    <string name="extention_name">Battery</string>
+    <string name="extension_description">Displays charging state, level, and other information about the battery.</string>
+    <string name="label_settings">Battery Extension Settings</string>
+
+    <string name="status_template">%d%%</string>
+    <string name="dock_template" formatted="false" translatable="false">Dock: %d%% — %s</string>
+    <string name="title_template" formatted="false" translatable="false">%d%% — %s</string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="status_unknown">@string/unknown</string>
+    <string name="status_discharging">Discharging</string>
+    <string name="status_charging">Charging</string>
+    <string name="status_full">Charged</string>
+    <string name="status_not_charging">Not Charging</string>
+
+    <string name="charging_template">Charging (%s)</string>
+    <string name="plugtype_ac" translatable="false">AC</string>
+    <string name="plugtype_usb" translatable="false">USB</string>
+    <string name="plugtype_wireless">Wireless</string>
+
+    <string name="discharging_template">%s on battery</string>
+
+    <string name="estimating_time">Calculating time</string>
+    <string name="remaining_on_battery">%s remaining</string>
+    <string name="until_full">%s until full</string>
+    <string name="remaining_not_charging">Battery is not charging</string>
+    <string name="remaining_full">Battery is full</string>
+
+    <string name="uptime">Usage: %s</string>
+    <string name="elapsed_realtime">Standby: %s</string>
+
+    <string name="template_health">Health: %s</string>
+    <string name="health_unknown">@string/unknown</string>
+    <string name="health_good">Good</string>
+    <string name="health_overheat">Overheat</string>
+    <string name="health_dead">Dead</string>
+    <string name="health_over_voltage">Over Voltage</string>
+    <string name="health_unspecified_failure">Unspecified Failure</string>
+    <string name="health_cold">Cold</string>
+
+    <string name="template_temperature" formatted="false" translatable="false">%.1f%s</string>
+    <string name="abrv_celsius" translatable="false">°C</string>
+    <string name="abrv_fahrenheit" translatable="false">°F</string>
+
+    <string name="template_voltage" translatable="false">%dmV</string>
+
+    <string name="battery_history" formatted="false" translatable="false">%s %s</string>
+
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">About</string>
+    <string name="close">Close</string>
+
+    <string name="app_name_and_version" translatable="false"><![CDATA[
+        <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
+    ]]></string>
+    <string name="about_body"><![CDATA[
+        <b>by</b>
+        <a href="https://twitter.com/grantland>Grantland Chew</a><br><br>
+        Many thanks to <a href="https://twitter.com/romannurik">Roman Nurik</a> for <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> and open sourcing his project.
+    ]]></string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="display_when_title">Show battery extension</string>
+    <string name="display_time_on_battery_title">Show time on battery</string>
+    <string name="display_time_on_battery_message">Show the amount of time the device has been running on battery.</string>
+    <string name="display_time_remaining_title">Show time remaining/time until full</string>
+    <string name="display_time_remaining_message">Show the amount of time remaining when on battery and time until full when charging.</string>
+    <string name="display_uptime_title">Show system usage</string>
+    <string name="display_uptime_message">Show the amount of time since boot, excluding time spent in deep sleep.</string>
+    <string name="display_elapsed_realtime_title">Show system standby</string>
+    <string name="display_elapsed_realtime_message">Show the amount of time since boot, including time spent in deep sleep.</string>
+    <string name="display_details_title">Show details</string>
+    <string name="display_temperature_units_title">Temperature units</string>
+    <string name="delimiter_comma" translatable="false">", "</string>
+    <string name="delimiter_line" translatable="false">" | "</string>
+    <string name="hide">Hide</string>
+    <string name="none">None</string>
+
+    <string name="health">Health</string>
+    <string name="temperature">Temperature</string>
+    <string name="voltage">Voltage</string>
+    <string name="technology">Technology</string>
+
+    <string name="donate_title">Donate</string>
+    <string name="donate_body">Show your appreciation for the time and effort put into creating DashClock Battery Extension by donating to the developer.</string>
+    <string name="donate_max">Wow, you\'ve donated the maximum amount possible, thank you!</string>
+    <string name="donate_thank_you">Thank you for your support!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Amount</b>
+        ]]></string>
+
+    <string name="support_donate_title">@string/donate_title</string>
+    <string name="support_donate_summary">Show your support for DashClock Battery Extension.</string>
+    <string name="support_listing_title">View on Google Play</string>
+    <string name="support_listing_summary">Share, rate, +1 or comment on DashClock Battery Extension.</string>
+    <string name="support_contact_title">Email developer</string>
+    <string name="support_contact_summary">@string/developer_email</string>
+    <string name="developer_email" translatable="false">android+dashclock@grantland.me</string>
+    <string name="email_subject" translatable="false">DashClock Battery Extension v%s</string>
+</resources>
