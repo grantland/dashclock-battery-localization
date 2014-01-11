@@ -67,8 +67,11 @@
     <string name="about">O programie</string>
     <string name="close">Zamknij</string>
 
-    <string name="about_body">"&lt;b>by&lt;/b> &lt;a href=https://twitter.com/grantland>Grantland Chew&lt;/a>&lt;br>&lt;br>
-        Podziękowania dla &lt;a href=https://twitter.com/romannurik>Roman Nurik&lt;/a> za &lt;a href=https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock>DashClock&lt;/a> i otwarcie źródeł tego programu."</string>
+    <string name="about_body"><![CDATA[
+        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
+        Podziękowania dla <a href=https://twitter.com/romannurik>Roman Nurik</a> za <a href=https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock>DashClock</a> i otwarcie źródeł tego programu.
+    ]]></string>
 
     <!-- BatterySettingsActivity -->
     <string name="display_when_title">Pokaż Battery Extension</string>

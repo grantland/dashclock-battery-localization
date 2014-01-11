@@ -68,8 +68,8 @@
     <string name="close">Chiudi</string>
 
     <string name="about_body"><![CDATA[
-        <b>by</b>
-        <a href="https://twitter.com/grantland>Grantland Chew</a><br><br>
+        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
         Many thanks to <a href="https://twitter.com/romannurik">Roman Nurik</a> for <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> and open sourcing his project.
     ]]></string>
 
@@ -103,7 +103,7 @@
     Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
     -->
     <string name="amount_label"><![CDATA[
-        <b>Amount</b>
+        <b>Importo</b>
         ]]></string>
 
     <string name="support_donate_title">@string/donate_title</string>

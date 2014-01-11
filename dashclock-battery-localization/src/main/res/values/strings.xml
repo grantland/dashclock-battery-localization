@@ -79,8 +79,8 @@
         <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
     ]]></string>
     <string name="about_body"><![CDATA[
-        <b>by</b>
-        <a href="https://twitter.com/grantland>Grantland Chew</a><br><br>
+        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
         Many thanks to <a href="https://twitter.com/romannurik">Roman Nurik</a> for <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> and open sourcing his project.
     ]]></string>
 
