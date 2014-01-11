@@ -7,13 +7,13 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 
 ## Current Translations
 
+* Italian (it) - Favaro Filippo
 * Polish (pl) - Piotrek Paszek
 
 
 ## Needed Translations
 
 * German (de)
-* Italian (it)
 
 
 ## Providing Translations
