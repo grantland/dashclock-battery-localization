@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extention_name">Accu</string>
+    <string name="extension_description">Toont de accu status, niveau and andere informatie.</string>
+    <string name="label_settings">Battery Extension instellingen</string>
+
+    <string name="status_template">%d%%</string>
+
+    <string name="unknown">Onbekend</string>
+
+    <string name="status_unknown">@string/unknown</string>
+    <string name="status_discharging">Ontladen</string>
+    <string name="status_charging">Opladen</string>
+    <string name="status_full">Opgeladen</string>
+    <string name="status_not_charging">Wordt niet opgeladen</string>
+
+    <string name="charging_template">Opladen (%s)</string>
+    <string name="plugtype_wireless">Draadloos</string>
+
+    <string name="discharging_template">%s op accu</string>
+
+    <string name="estimating_time">Berekend tijd</string>
+    <string name="remaining_on_battery">%s resterend</string>
+    <string name="until_full">%s tot vol</string>
+    <string name="remaining_not_charging">Accu wordt niet opgeladen</string>
+    <string name="remaining_full">Accu is vol</string>
+
+    <string name="uptime">Verbruik: %s</string>
+    <string name="elapsed_realtime">Standby: %s</string>
+
+    <string name="template_health">Gezondheid: %s</string>
+    <string name="health_unknown">@string/unknown</string>
+    <string name="health_good">Goed</string>
+    <string name="health_overheat">Oververhit</string>
+    <string name="health_dead">Dood</string>
+    <string name="health_over_voltage">Oververspanning</string>
+    <string name="health_unspecified_failure">Onbekende fout</string>
+    <string name="health_cold">Koud</string>
+
+    <plurals name="days">
+        <item quantity="one">%d dag</item>
+        <item quantity="other">%d dagen</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uur</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d minuut</item>
+        <item quantity="other">%d minuten</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d seconde</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">Over</string>
+    <string name="close">Sluiten</string>
+
+    <string name="about_body"><![CDATA[
+        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
+        Veel dank voor <a href="https://twitter.com/romannurik">Roman Nurik</a> voor <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> en zijn project open source maken.
+    ]]></string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="display_when_title">Toon battery extension</string>
+    <string name="display_time_on_battery_title">Toon de tijd op accu</string>
+    <string name="display_time_on_battery_message">Toon de totale tijd op accu </string>
+    <string name="display_time_remaining_title">Toon resterende tijd/ tijd tot vol</string>
+    <string name="display_time_remaining_message">Toon de tijd resterend op accu and tijd tot vol tijdens opladen.</string>
+    <string name="display_uptime_title">Toon systeem verbruik</string>
+    <string name="display_uptime_message">Toon de tijd sinds opstarten, exclusief tijd in deep sleep.</string>
+    <string name="display_elapsed_realtime_title">Toon systeem standby tijd</string>
+    <string name="display_elapsed_realtime_message">Toon de tijd sinds opstarten, inclusief tijd in deep sleep.</string>
+    <string name="display_details_title">Toon details</string>
+    <string name="display_temperature_units_title">Temperatuur eenheden</string>
+    <string name="hide">Verbergen</string>
+    <string name="none">Geen</string>
+
+    <string name="health">Gezondheid</string>
+    <string name="temperature">Temperatuur</string>
+    <string name="voltage">Voltage</string>
+    <string name="technology">Technologie</string>
+
+    <string name="donate_title">Doneren</string>
+    <string name="donate_body">Toon je waardering voor tijd en moeite die de ontwikkelaar heeft gestopt het maken van DashClock Battery Extension door te doneren.</string>
+    <string name="donate_max">Wow, je hebt het maximale aantal gedoneerd, dankjewel!</string>
+    <string name="donate_thank_you">Bedankt voor je steun!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Hoeveelheid</b>
+        ]]></string>
+
+    <string name="support_donate_title">@string/donate_title</string>
+    <string name="support_donate_summary">Toon je waardering voor DashClock Battery Extension.</string>
+    <string name="support_listing_title">Bekijk op Google Play</string>
+    <string name="support_listing_summary">Deel, beroordeel, +1 of geef je reactie op DashClock Battery Extension.</string>
+    <string name="support_contact_title">Email de ontwikkelaar</string>
+    <string name="support_contact_summary">@string/developer_email</string>
+</resources>
