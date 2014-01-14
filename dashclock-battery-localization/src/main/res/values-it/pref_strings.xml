@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Translated by
+ * Favaro Filippo <faavaro@gmail.com>
+ */
+-->
 <resources>
     <!-- Universal settings preferences -->
     <string name="pref_shortcut_title">Collegamento</string>
