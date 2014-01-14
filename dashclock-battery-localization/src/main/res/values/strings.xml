@@ -19,8 +19,8 @@
     <string name="status_not_charging">Not Charging</string>
 
     <string name="charging_template">Charging (%s)</string>
-    <string name="plugtype_ac" translatable="false">AC</string>
-    <string name="plugtype_usb" translatable="false">USB</string>
+    <string name="plugtype_ac">AC</string>
+    <string name="plugtype_usb">USB</string>
     <string name="plugtype_wireless">Wireless</string>
 
     <string name="discharging_template">%s on battery</string>

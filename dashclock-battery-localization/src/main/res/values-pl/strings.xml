@@ -21,6 +21,8 @@
     <string name="status_not_charging">Nie ładuję</string>
 
     <string name="charging_template">Ładowanie (%s)</string>
+    <string name="plugtype_ac">AC</string>
+    <string name="plugtype_usb">USB</string>
     <string name="plugtype_wireless">Bezprzew.</string>
 
     <string name="discharging_template">%s na baterii</string>

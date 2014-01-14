@@ -15,6 +15,8 @@
     <string name="status_not_charging">Wordt niet opgeladen</string>
 
     <string name="charging_template">Opladen (%s)</string>
+    <string name="plugtype_ac">AC</string>
+    <string name="plugtype_usb">USB</string>
     <string name="plugtype_wireless">Draadloos</string>
 
     <string name="discharging_template">%s op accu</string>
