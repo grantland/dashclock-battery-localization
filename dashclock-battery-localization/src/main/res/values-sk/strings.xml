@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DashClock Battery Extension</string>
+
+    <string name="extention_name">Batéria</string>
+    <string name="extension_description">Zobrazí stav nabíjania, úroveň a ďalšie informácie ohľadom batérie.</string>
+    <string name="label_settings">Nastavenia rozšírenia</string>
+
+    <string name="status_template">%d%%</string>
+    <string name="dock_template" formatted="false" translatable="false">Dok: %d%% — %s</string>
+    <string name="title_template" formatted="false" translatable="false">%d%% — %s</string>
+
+    <string name="unknown">Neznáme</string>
+
+    <string name="status_unknown">@string/unknown</string>
+    <string name="status_discharging">Vybíjanie</string>
+    <string name="status_charging">Nabíjanie</string>
+    <string name="status_full">Nabité</string>
+    <string name="status_not_charging">Nenabíja</string>
+
+    <string name="charging_template">Nabíjanie (%s)</string>
+    <string name="plugtype_ac">AC</string>
+    <string name="plugtype_usb">USB</string>
+    <string name="plugtype_wireless">Bezdrôtovo</string>
+
+    <string name="discharging_template">%s na batérii</string>
+
+    <string name="estimating_time">Vypočítavam čas</string>
+    <string name="remaining_on_battery">%s ostáva</string>
+    <string name="until_full">%s do nabitia</string>
+    <string name="remaining_not_charging">Batéria sa nenabíja</string>
+    <string name="remaining_full">Batéria je nabitá</string>
+
+    <string name="uptime">Používanie: %s</string>
+    <string name="elapsed_realtime">Pohotovostný režim: %s</string>
+
+    <string name="template_health">Zdravie: %s</string>
+    <string name="health_unknown">@string/unknown</string>
+    <string name="health_good">Dobrá</string>
+    <string name="health_overheat">Prehriata</string>
+    <string name="health_dead">Mŕtva</string>
+    <string name="health_over_voltage">Vysoké napätie</string>
+    <string name="health_unspecified_failure">Nešpecifikované zlyhanie</string>
+    <string name="health_cold">Studená</string>
+
+    <string name="template_temperature" formatted="false" translatable="false">%.1f%s</string>
+    <string name="abrv_celsius" translatable="false">°C</string>
+    <string name="abrv_fahrenheit" translatable="false">°F</string>
+
+    <string name="template_voltage" translatable="false">%dmV</string>
+
+    <string name="battery_history" formatted="false" translatable="false">%s %s</string>
+
+    <plurals name="days">
+        <item quantity="one">%d deň</item>
+        <item quantity="other">%d dní</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d hodina</item>
+        <item quantity="other">%d hodín</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d minúta</item>
+        <item quantity="other">%d minút</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="other">%d sekúnd</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">O aplikácii</string>
+    <string name="close">Zatvoriť</string>
+
+    <string name="app_name_and_version" translatable="false"><![CDATA[
+        <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
+    ]]></string>
+    <string name="about_body"><![CDATA[
+        <b>od</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
+        Veľká vďaka <a href="https://twitter.com/romannurik">Roman Nurik</a>ovi za <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> a sprístupnenie jeho projektu.
+    ]]></string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="display_when_title">Zobraziť v rozšírení</string>
+    <string name="display_time_on_battery_title">Zobraziť čas na batérii</string>
+    <string name="display_time_on_battery_message">Zobrazí celkový čas koľko beží zariadenie na batérii.</string>
+    <string name="display_time_remaining_title">Zobraziť ostávajúci čas/čas do úpného nabitia</string>
+    <string name="display_time_remaining_message">Zobrazí koľko času ostáva do vybitia, alebo do úplného nabitia pri nabíjaní.</string>
+    <string name="display_uptime_title">Zobraziť používanie systému</string>
+    <string name="display_uptime_message">Zobrazí čas od spustenia zariadenia, s výnikou času, keď bolo v režime hlbokého spánku.</string>
+    <string name="display_elapsed_realtime_title">Zobraziť pohotovostný režim systému</string>
+    <string name="display_elapsed_realtime_message">Zobrazí čas od spustenia zariadenia, spolu s časom, keď bolo v režime hlbokého spánku.</string>
+    <string name="display_details_title">Zobraziť podrobnosti</string>
+    <string name="display_temperature_units_title">Jednotky teploty</string>
+    <string name="delimiter_comma" translatable="false">", "</string>
+    <string name="delimiter_line" translatable="false">" | "</string>
+    <string name="hide">Skryť</string>
+    <string name="none">Nič</string>
+
+    <string name="health">Zdravie</string>
+    <string name="temperature">Teplota</string>
+    <string name="voltage">Voltáž</string>
+    <string name="technology">Technológia</string>
+
+    <string name="donate_title">Podporiť</string>
+    <string name="donate_body">Ukážte svoje uznanie za čas a úsilie vložené do vytvorenia rozšírenia pre DashClock darom pre vývojára.</string>
+    <string name="donate_max">Super, poslali ste maximálnu sumu, ďakujem!</string>
+    <string name="donate_thank_you">Ďakujem za Vašu podporu!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Suma</b>
+        ]]></string>
+
+    <string name="support_donate_title">@string/donate_title</string>
+    <string name="support_donate_summary">Podporte vývoj tohoto rozšírenia pre DashClock.</string>
+    <string name="support_listing_title">Zobraziť v Obchode Play</string>
+    <string name="support_listing_summary">Zdieľajte, hodnoťte, dajte +1, alebo komentujte toto rozšírenie pre DashClock.</string>
+    <string name="support_contact_title">Poslať e-mail</string>
+    <string name="support_contact_summary">@string/developer_email</string>
+    <string name="developer_email" translatable="false">android+dashclock@grantland.me</string>
+    <string name="email_subject" translatable="false">DashClock Battery Extension v%s</string>
+</resources>
