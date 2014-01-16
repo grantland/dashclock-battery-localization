@@ -4,11 +4,10 @@
     <string name="extension_description">Toont de accu status, niveau and andere informatie.</string>
     <string name="label_settings">Battery Extension instellingen</string>
 
-    <string name="status_template">%d%%</string>
+    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
 
     <string name="unknown">Onbekend</string>
 
-    <string name="status_unknown">@string/unknown</string>
     <string name="status_discharging">Ontladen</string>
     <string name="status_charging">Opladen</string>
     <string name="status_full">Opgeladen</string>
@@ -31,7 +30,6 @@
     <string name="elapsed_realtime">Standby: %s</string>
 
     <string name="template_health">Gezondheid: %s</string>
-    <string name="health_unknown">@string/unknown</string>
     <string name="health_good">Goed</string>
     <string name="health_overheat">Oververhit</string>
     <string name="health_dead">Dood</string>
@@ -102,10 +100,8 @@
         <b>Hoeveelheid</b>
         ]]></string>
 
-    <string name="support_donate_title">@string/donate_title</string>
     <string name="support_donate_summary">Toon je waardering voor DashClock Battery Extension.</string>
     <string name="support_listing_title">Bekijk op Google Play</string>
     <string name="support_listing_summary">Deel, beroordeel, +1 of geef je reactie op DashClock Battery Extension.</string>
     <string name="support_contact_title">Email de ontwikkelaar</string>
-    <string name="support_contact_summary">@string/developer_email</string>
 </resources>

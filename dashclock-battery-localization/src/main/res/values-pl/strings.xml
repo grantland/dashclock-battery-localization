@@ -10,11 +10,10 @@
     <string name="extension_description">Pokazuje stan naładowania, poziom baterii i inne informacje z nią związane.</string>
     <string name="label_settings">Ustawienia Battery Extension</string>
 
-    <string name="status_template">%d%%</string>
+    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
 
     <string name="unknown">Nieznany</string>
 
-    <string name="status_unknown">@string/unknown</string>
     <string name="status_discharging">Rozładowywanie</string>
     <string name="status_charging">Ładowanie</string>
     <string name="status_full">Naładowany</string>
@@ -37,7 +36,6 @@
     <string name="elapsed_realtime">W spoczynku: %s</string>
 
     <string name="template_health">Stan baterii: %s</string>
-    <string name="health_unknown">@string/unknown</string>
     <string name="health_good">Dobry</string>
     <string name="health_overheat">Przegrzanie</string>
     <string name="health_dead">Do wymiany</string>
@@ -108,10 +106,8 @@
         <b>Kwota</b>
         ]]></string>
 
-    <string name="support_donate_title">@string/donate_title</string>
     <string name="support_donate_summary">Pokaż wsparcie dla DashClock Battery Extension.</string>
     <string name="support_listing_title">Zobacz na Google Play</string>
     <string name="support_listing_summary">Udostępnij, oceń, daj +1 lub skomentuj DashClock Battery Extension.</string>
     <string name="support_contact_title">Napisz wiadomość do developera</string>
-    <string name="support_contact_summary">@string/developer_email</string>
 </resources>

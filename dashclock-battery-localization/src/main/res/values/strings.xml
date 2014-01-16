@@ -6,13 +6,13 @@
     <string name="extension_description">Displays charging state, level, and other information about the battery.</string>
     <string name="label_settings">Battery Extension Settings</string>
 
-    <string name="status_template">%d%%</string>
-    <string name="dock_template" formatted="false" translatable="false">Dock: %d%% — %s</string>
+    <string name="status_template" translatable="false">%d%%</string>
+    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
     <string name="title_template" formatted="false" translatable="false">%d%% — %s</string>
 
     <string name="unknown">Unknown</string>
 
-    <string name="status_unknown">@string/unknown</string>
+    <string name="status_unknown" translatable="false">@string/unknown</string>
     <string name="status_discharging">Discharging</string>
     <string name="status_charging">Charging</string>
     <string name="status_full">Charged</string>
@@ -35,7 +35,7 @@
     <string name="elapsed_realtime">Standby: %s</string>
 
     <string name="template_health">Health: %s</string>
-    <string name="health_unknown">@string/unknown</string>
+    <string name="health_unknown" translatable="false">@string/unknown</string>
     <string name="health_good">Good</string>
     <string name="health_overheat">Overheat</string>
     <string name="health_dead">Dead</string>
@@ -119,12 +119,12 @@
         <b>Amount</b>
         ]]></string>
 
-    <string name="support_donate_title">@string/donate_title</string>
+    <string name="support_donate_title" translatable="false">@string/donate_title</string>
     <string name="support_donate_summary">Show your support for DashClock Battery Extension.</string>
     <string name="support_listing_title">View on Google Play</string>
     <string name="support_listing_summary">Share, rate, +1 or comment on DashClock Battery Extension.</string>
     <string name="support_contact_title">Email developer</string>
-    <string name="support_contact_summary">@string/developer_email</string>
+    <string name="support_contact_summary" translatable="false">@string/developer_email</string>
     <string name="developer_email" translatable="false">android+dashclock@grantland.me</string>
     <string name="email_subject" translatable="false">DashClock Battery Extension v%s</string>
 </resources>
