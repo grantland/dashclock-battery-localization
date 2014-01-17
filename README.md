@@ -11,6 +11,7 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 * Italian (it) - Favaro Filippo
 * Polish (pl) - Piotrek Paszek
 * Slovak (sk) - ja_som
+* Russian (ru) - Victor Polupanov
 
 
 ## Needed Translations
@@ -21,3 +22,4 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 ## Providing Translations
 
 Any translations would be greatly appreciated.
+
