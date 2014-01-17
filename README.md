@@ -8,6 +8,7 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 ## Current Translations
 
 * Polish (pl) - Piotrek Paszek
+* Russian (ru) - Polupanov Victor
 
 
 ## Needed Translations
