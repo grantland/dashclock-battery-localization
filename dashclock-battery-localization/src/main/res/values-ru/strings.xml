@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+* Translated by
+* Polupanov Victor <polupanov96@gmail.com>
+*/
+-->
+<resources>
+    <string name="extention_name">Батарея</string>
+    <string name="extension_description">Отображает состояние батареи, уровень заряда и другую информацию.</string>
+    <string name="label_settings">Настройки</string>
+
+    <string name="status_template">%d%%</string>
+
+    <string name="unknown">Неизвестно</string>
+
+    <string name="status_unknown">@string/unknown</string>
+    <string name="status_discharging">Разряжается</string>
+    <string name="status_charging">Идет зарядка</string>
+    <string name="status_full">Батарея заряжена</string>
+    <string name="status_not_charging">Не заряжается</string>
+
+    <string name="charging_template">Идет зарядка (%s)</string>
+    <string name="plugtype_ac">AC</string>
+    <string name="plugtype_usb">USB</string>
+    <string name="plugtype_wireless">Беспроводн.</string>
+
+    <string name="discharging_template">%s от батареи</string>
+
+    <string name="estimating_time">Подсчет времени</string>
+    <string name="remaining_on_battery">%s осталось</string>
+    <string name="until_full">%s до полной зарядки</string>
+    <string name="remaining_not_charging">Не заряжается</string>
+    <string name="remaining_full">Батарея заряжена</string>
+
+    <string name="uptime">Использование: %s</string>
+    <string name="elapsed_realtime">Время с момента вкл.: %s</string>
+
+    <string name="template_health">Состояние: %s</string>
+    <string name="health_unknown">@string/unknown</string>
+    <string name="health_good">Хорошее</string>
+    <string name="health_overheat">Перегрев</string>
+    <string name="health_dead">Не пригоден</string>
+    <string name="health_over_voltage">Высокое напряжение</string>
+    <string name="health_unspecified_failure">Не определено</string>
+    <string name="health_cold">Низкая температура</string>
+
+    <plurals name="days">
+        <item quantity="one">%d день</item>
+        <item quantity="other">%d дней</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d час</item>
+        <item quantity="other">%d часов</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">О программе</string>
+    <string name="close">Закрыть</string>
+
+    <string name="about_body"><![CDATA[
+        <b>by</b>
+        <a href="https://twitter.com/grantland>Grantland Chew</a><br><br>
+        Many thanks to <a href="https://twitter.com/romannurik">Roman Nurik</a> for <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> and open sourcing his project.
+    ]]></string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="display_when_title">Показать информацию</string>
+    <string name="display_time_on_battery_title">Время работы от батареи</string>
+    <string name="display_time_on_battery_message">Отображает время работы от батареи</string>
+    <string name="display_time_remaining_title">Время до зарядки/разрядки батареи</string>
+    <string name="display_time_remaining_message">Отображает время до полной зарядки или разрядки батареи.</string>
+    <string name="display_uptime_title">Время использования устройства</string>
+    <string name="display_uptime_message">Время пользования устройством, без учета спящего режима.</string>
+    <string name="display_elapsed_realtime_title">Время с момента включения (uptime)</string>
+    <string name="display_elapsed_realtime_message">Время с момента включения устройства, с учетом спящего режима.</string>
+    <string name="display_details_title">Дополнительно</string>
+    <string name="display_temperature_units_title">Единицы измерения</string>
+    <string name="hide">Скрыть</string>
+    <string name="none">Нет</string>
+
+    <string name="health">Состояние</string>
+    <string name="temperature">Температура</string>
+    <string name="voltage">Напряжение</string>
+    <string name="technology">Технология</string>
+
+    <string name="donate_title">Сделать пожертвование</string>
+    <string name="donate_body">Проявите признательность к разработчику DashClock Battery Extension за потраченное время и усилия небольшим денежным пожертвованием.</string>
+    <string name="donate_max">Вау, вы пожертвовали максимально возможную сумму, спасибо!</string>
+    <string name="donate_thank_you">Спасибо за вашу поддержку!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Сумма</b>
+        ]]></string>
+
+    <string name="support_donate_title">@string/donate_title</string>
+    <string name="support_donate_summary">Поддержите DashClock Battery Extension.</string>
+    <string name="support_listing_title">Открыть в Google Play</string>
+    <string name="support_listing_summary">Рекоммендавать, оценить или оставить комментарий о DashClock Battery Extension.</string>
+    <string name="support_contact_title">Написать разработчику (на Английском)</string>
+    <string name="support_contact_summary">@string/developer_email</string>
+</resources>
