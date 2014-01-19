@@ -12,15 +12,23 @@
 
     <string name="unknown">Unknown</string>
 
+    <!-- battery_info_status_unknown -->
     <string name="status_unknown" translatable="false">@string/unknown</string>
+    <!-- battery_info_status_discharging AOSP: Not charging -->
     <string name="status_discharging">Discharging</string>
+    <!-- battery_info_status_charging -->
     <string name="status_charging">Charging</string>
+    <!-- battery_info_status_full AOSP: Full -->
     <string name="status_full">Charged</string>
+    <!-- battery_info_status_not_charging -->
     <string name="status_not_charging">Not Charging</string>
 
     <string name="charging_template">Charging (%s)</string>
+    <!-- battery_info_status_charging_ac -->
     <string name="plugtype_ac">AC</string>
+    <!-- battery_info_status_charging_usb -->
     <string name="plugtype_usb">USB</string>
+    <!-- battery_info_status_charging_wireless -->
     <string name="plugtype_wireless">Wireless</string>
 
     <string name="discharging_template">%s on battery</string>
@@ -35,12 +43,19 @@
     <string name="elapsed_realtime">Standby: %s</string>
 
     <string name="template_health">Health: %s</string>
+    <!-- battery_info_health_unknown -->
     <string name="health_unknown" translatable="false">@string/unknown</string>
+    <!-- battery_info_health_good -->
     <string name="health_good">Good</string>
+    <!-- battery_info_health_overheat -->
     <string name="health_overheat">Overheat</string>
+    <!-- battery_info_health_dead -->
     <string name="health_dead">Dead</string>
+    <!-- battery_info_health_over_voltage -->
     <string name="health_over_voltage">Over Voltage</string>
+    <!-- battery_info_health_unspecified_failure AOSP: Unknown error -->
     <string name="health_unspecified_failure">Unspecified Failure</string>
+    <!-- battery_info_health_cold -->
     <string name="health_cold">Cold</string>
 
     <string name="template_temperature" formatted="false" translatable="false">%.1f%s</string>
