@@ -10,20 +10,19 @@
     <string name="extension_description">Отображает состояние батареи, уровень заряда и другую информацию.</string>
     <string name="label_settings">Настройки</string>
 
-    <string name="status_template">%d%%</string>
+    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
 
     <string name="unknown">Неизвестно</string>
 
-    <string name="status_unknown">@string/unknown</string>
     <string name="status_discharging">Разряжается</string>
     <string name="status_charging">Идет зарядка</string>
     <string name="status_full">Батарея заряжена</string>
     <string name="status_not_charging">Не заряжается</string>
 
     <string name="charging_template">Идет зарядка (%s)</string>
-    <string name="plugtype_ac">AC</string>
-    <string name="plugtype_usb">USB</string>
-    <string name="plugtype_wireless">Беспроводн.</string>
+    <string name="plugtype_ac">от сети</string>
+    <string name="plugtype_usb">по USB</string>
+    <string name="plugtype_wireless">Wi-Fi</string>
 
     <string name="discharging_template">%s от батареи</string>
 
@@ -37,13 +36,12 @@
     <string name="elapsed_realtime">Время с момента вкл.: %s</string>
 
     <string name="template_health">Состояние: %s</string>
-    <string name="health_unknown">@string/unknown</string>
-    <string name="health_good">Хорошее</string>
+    <string name="health_good">Хорошо</string>
     <string name="health_overheat">Перегрев</string>
-    <string name="health_dead">Не пригоден</string>
-    <string name="health_over_voltage">Высокое напряжение</string>
+    <string name="health_dead">Разряжена</string>
+    <string name="health_over_voltage">Слишком высокое напряжение</string>
     <string name="health_unspecified_failure">Не определено</string>
-    <string name="health_cold">Низкая температура</string>
+    <string name="health_cold">Холодная</string>
 
     <plurals name="days">
         <item quantity="one">%d день</item>
@@ -70,8 +68,8 @@
     <string name="close">Закрыть</string>
 
     <string name="about_body"><![CDATA[
-        <b>by</b>
-        <a href="https://twitter.com/grantland>Grantland Chew</a><br><br>
+        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br><br>
         Many thanks to <a href="https://twitter.com/romannurik">Roman Nurik</a> for <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> and open sourcing his project.
     ]]></string>
 
@@ -108,10 +106,8 @@
         <b>Сумма</b>
         ]]></string>
 
-    <string name="support_donate_title">@string/donate_title</string>
     <string name="support_donate_summary">Поддержите DashClock Battery Extension.</string>
     <string name="support_listing_title">Открыть в Google Play</string>
     <string name="support_listing_summary">Рекоммендавать, оценить или оставить комментарий о DashClock Battery Extension.</string>
     <string name="support_contact_title">Написать разработчику (на Английском)</string>
-    <string name="support_contact_summary">@string/developer_email</string>
 </resources>
