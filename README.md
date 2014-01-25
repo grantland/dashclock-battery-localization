@@ -10,8 +10,8 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 * Dutch (nl)
 * Italian (it) - Favaro Filippo
 * Polish (pl) - Piotrek Paszek
-* Slovak (sk) - ja_som
 * Russian (ru) - Victor Polupanov
+* Slovak (sk) - ja_som
 
 
 ## Needed Translations
