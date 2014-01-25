@@ -83,7 +83,7 @@
     <string name="display_uptime_message">Visualizza il tempo trascorso dall\'ultimo avvio, escudendo quello trascorso in deep sleep.</string>
     <string name="display_elapsed_realtime_title">Mostra standby</string>
     <string name="display_elapsed_realtime_message">Visualizza il tempo trascorso dall\'ultimo avvio, includendo quello trascorso in deep sleep.</string>
-    <string name="display_details_title">Vidualizza dettagli</string>
+    <string name="display_details_title">Visualizza dettagli</string>
     <string name="display_temperature_units_title">Unità di misura</string>
     <string name="hide">Nascosto</string>
     <string name="none">Nessuno</string>
