@@ -3,7 +3,7 @@
     <string name="app_name" translatable="false">DashClock Battery Extension</string>
 
     <string name="extension_name">Akku</string>
-    <string name="extension_description">Zeigt Ladestatus, Höhe, und andere Informationen zum Akku an.</string>
+    <string name="extension_description">Zeigt den Ladestatus, Höhe, und andere Informationen zum Akku an.</string>
     <string name="label_settings">Battery Extension Einstellungen</string>
 
     <string name="status_template" translatable="false">%d%%</string>
@@ -17,13 +17,13 @@
     <!-- battery_info_status_discharging AOSP: Not charging -->
     <string name="status_discharging">Entlädt</string>
     <!-- battery_info_status_charging -->
-    <string name="status_charging">Lädt auf</string>
+    <string name="status_charging">Wird geladen</string>
     <!-- battery_info_status_full AOSP: Full -->
     <string name="status_full">Aufgeladen</string>
     <!-- battery_info_status_not_charging -->
-    <string name="status_not_charging">Nicht am Aufladen</string>
+    <string name="status_not_charging">Wird nicht geladen</string>
 
-    <string name="charging_template">Lädt auf (%s)</string>
+    <string name="charging_template">Wird geladen (%s)</string>
     <!-- battery_info_status_charging_ac -->
     <string name="plugtype_ac">Netzteil</string>
     <!-- battery_info_status_charging_usb -->
@@ -39,7 +39,7 @@
     <string name="remaining_not_charging">Akku wird nicht geladen</string>
     <string name="remaining_full">Akku ist aufgeladen</string>
 
-    <string name="uptime">Benutzung: %s</string>
+    <string name="uptime">Betriebszeit: %s</string>
     <string name="elapsed_realtime">Standby: %s</string>
 
     <string name="template_health">Zustand: %s</string>
@@ -107,7 +107,7 @@
     <string name="display_time_remaining_message">Zeige die verbleibende Zeit mit Akku und bis der Akku aufgeladen ist.</string>
     <string name="display_uptime_title">Zeige Systemauslastung</string>
     <string name="display_uptime_message">Zeige die Zeit seit Start des Smartphones, ohne Tiefschlafphasen.</string>
-    <string name="display_elapsed_realtime_title">Zeige Standybyzeiten</string>
+    <string name="display_elapsed_realtime_title">Zeige Standbyzeiten</string>
     <string name="display_elapsed_realtime_message">Zeige die Zeit seit Start des Smartphones, mit Tiefschlafphasen.</string>
     <string name="display_details_title">Zeige Details</string>
     <string name="display_temperature_units_title">Temperatureinheiten</string>
