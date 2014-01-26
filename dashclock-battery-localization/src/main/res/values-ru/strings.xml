@@ -6,7 +6,7 @@
 */
 -->
 <resources>
-    <string name="extention_name">Батарея</string>
+    <string name="extension_name">Батарея</string>
     <string name="extension_description">Отображает состояние батареи, уровень заряда и другую информацию.</string>
     <string name="label_settings">Настройки</string>
 

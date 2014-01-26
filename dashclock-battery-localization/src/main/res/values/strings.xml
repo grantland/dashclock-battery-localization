@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name" translatable="false">DashClock Battery Extension</string>
 
-    <string name="extention_name">Battery</string>
+    <string name="extension_name">Battery</string>
     <string name="extension_description">Displays charging state, level, and other information about the battery.</string>
     <string name="label_settings">Battery Extension Settings</string>
 

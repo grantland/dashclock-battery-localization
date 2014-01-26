@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="extention_name">Accu</string>
+    <string name="extension_name">Accu</string>
     <string name="extension_description">Toont de accu status, niveau and andere informatie.</string>
     <string name="label_settings">Battery Extension instellingen</string>
 

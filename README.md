@@ -8,15 +8,11 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 ## Current Translations
 
 * Dutch (nl)
-* Italian (it) - Favaro Filippo
+* German (de) - [Frederik Niedernolte](https://github.com/MaluNoPeleke)
+* Italian (it) - [Filippo Favaro](https://github.com/filippofavaro)
 * Polish (pl) - Piotrek Paszek
-* Russian (ru) - Victor Polupanov
-* Slovak (sk) - ja_som
-
-
-## Needed Translations
-
-* German (de)
+* Russian (ru) - [Victor Polupanov](https://github.com/androidsoft)
+* Slovak (sk) - [ja_som](https://github.com/ja-som)
 
 
 ## Providing Translations

@@ -6,7 +6,7 @@
  */
 -->
 <resources>
-    <string name="extention_name">Batteria</string>
+    <string name="extension_name">Batteria</string>
     <string name="extension_description">Visualizza lo stato della ricarica, livello e altre informazioni riguardo la batteria.</string>
     <string name="label_settings">Impostazioni estensione Batteria</string>
 

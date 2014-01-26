@@ -6,7 +6,7 @@
  */
 -->
 <resources>
-    <string name="extention_name">Batéria</string>
+    <string name="extension_name">Batéria</string>
     <string name="extension_description">Zobrazí stav nabíjania, úroveň a ďalšie informácie ohľadom batérie.</string>
     <string name="label_settings">Nastavenia rozšírenia</string>
 
