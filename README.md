@@ -5,7 +5,7 @@ This project contains all the localization strings for DashClock Battery Extensi
 https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 
 
-## Current Translations
+## Credits
 
 * Dutch (nl)
 * German (de) - [Frederik Niedernolte](https://github.com/MaluNoPeleke)
@@ -17,5 +17,5 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 
 ## Providing Translations
 
-Any translations would be greatly appreciated.
+Any translations would be greatly appreciated!
 
