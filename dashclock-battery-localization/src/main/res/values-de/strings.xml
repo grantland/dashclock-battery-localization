@@ -19,7 +19,7 @@
 
     <string name="charging_template">Wird geladen (%s)</string>
     <!-- battery_info_status_charging_ac -->
-    <string name="plugtype_ac">Netzteil</string>
+    <string name="plugtype_ac">AC</string>
     <!-- battery_info_status_charging_usb -->
     <string name="plugtype_usb">USB</string>
     <!-- battery_info_status_charging_wireless -->
@@ -41,11 +41,11 @@
     <!-- battery_info_health_good -->
     <string name="health_good">Gut</string>
     <!-- battery_info_health_overheat -->
-    <string name="health_overheat">Überhitzt</string>
+    <string name="health_overheat">Überhitzung</string>
     <!-- battery_info_health_dead -->
     <string name="health_dead">Tot</string>
     <!-- battery_info_health_over_voltage -->
-    <string name="health_over_voltage">Zu hohe Spannung</string>
+    <string name="health_over_voltage">Überspannung</string>
     <!-- battery_info_health_unspecified_failure AOSP: Unknown error -->
     <string name="health_unspecified_failure">Unspezifizierter Fehler</string>
     <!-- battery_info_health_cold -->
