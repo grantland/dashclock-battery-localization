@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Extension de batterie DashClock</string>
+
+    <string name="extension_name">Batterie</string>
+    <string name="extension_description">Afficher l'état de charge, le niveau et les autres informations de la batterie.</string>
+    <string name="label_settings">Paramètres de l'extension</string>
+
+    <string name="status_template" translatable="false">%d%%</string>
+    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
+    <string name="title_template" formatted="false" translatable="false">%d%% — %s</string>
+
+    <string name="unknown">Inconnu</string>
+
+    <!-- battery_info_status_unknown -->
+    <string name="status_unknown" translatable="false">@string/unknown</string>
+    <!-- battery_info_status_discharging AOSP: Not charging -->
+    <string name="status_discharging">Déchargement</string>
+    <!-- battery_info_status_charging -->
+    <string name="status_charging">Chargement</string>
+    <!-- battery_info_status_full AOSP: Full -->
+    <string name="status_full">Chargée</string>
+    <!-- battery_info_status_not_charging -->
+    <string name="status_not_charging">Ne charge pas</string>
+
+    <string name="charging_template">Chargement (%s)</string>
+    <!-- battery_info_status_charging_ac -->
+    <string name="plugtype_ac">AC</string>
+    <!-- battery_info_status_charging_usb -->
+    <string name="plugtype_usb">USB</string>
+    <!-- battery_info_status_charging_wireless -->
+    <string name="plugtype_wireless">Sans fil</string>
+
+    <string name="discharging_template">%s sur batterie</string>
+
+    <string name="estimating_time">Calcule du temps</string>
+    <string name="remaining_on_battery">%s restant</string>
+    <string name="until_full">%s avant la charge complète</string>
+    <string name="remaining_not_charging">La batterie ne charge pas</string>
+    <string name="remaining_full">Batterie chargée</string>
+
+    <string name="uptime">Utilisation: %s</string>
+    <string name="elapsed_realtime">En veille: %s</string>
+
+    <string name="template_health">Etat: %s</string>
+    <!-- battery_info_health_unknown -->
+    <string name="health_unknown" translatable="false">@string/unknown</string>
+    <!-- battery_info_health_good -->
+    <string name="health_good">Bonne</string>
+    <!-- battery_info_health_overheat -->
+    <string name="health_overheat">Surchauffe</string>
+    <!-- battery_info_health_dead -->
+    <string name="health_dead">Morte</string>
+    <!-- battery_info_health_over_voltage -->
+    <string name="health_over_voltage">Surtensions</string>
+    <!-- battery_info_health_unspecified_failure AOSP: Unknown error -->
+    <string name="health_unspecified_failure">Défaut non spécifié</string>
+    <!-- battery_info_health_cold -->
+    <string name="health_cold">Froide</string>
+
+    <string name="template_temperature" formatted="false" translatable="false">%.1f%s</string>
+    <string name="abrv_celsius" translatable="false">°C</string>
+    <string name="abrv_fahrenheit" translatable="false">°F</string>
+
+    <string name="template_voltage" translatable="false">%dmV</string>
+
+    <string name="battery_history" formatted="false" translatable="false">%s %s</string>
+
+    <plurals name="days">
+        <item quantity="one">%d jour</item>
+        <item quantity="other">%d jours</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d heure</item>
+        <item quantity="other">%d heures</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">À propos</string>
+    <string name="close">Fermer</string>
+
+    <string name="app_name_and_version" translatable="false"><![CDATA[
+        <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
+    ]]></string>
+    <string name="about_body"><![CDATA[
+        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
+        Many thanks to <a href="https://twitter.com/romannurik">Roman Nurik</a> for <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> and open sourcing his project.
+    ]]></string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="display_when_title">Afficher l'extension de batterie</string>
+    <string name="display_time_on_battery_title">Afficher le temps sur batterie</string>
+    <string name="display_time_on_battery_message">Afficher la quantité de temps en cours d'exécution sur la batterie.</string>
+    <string name="display_time_remaining_title">Afficher le temps restant avant la charge complète</string>
+    <string name="display_time_remaining_message">Afficher le temps restant avant la charge complète quand la batterie est en charge.</string>
+    <string name="display_uptime_title">Afficher l'utilisation du système</string>
+    <string name="display_uptime_message">Afficher le temps depuis le démarrage,sans compter le temps passé en veille profonde.</string>
+    <string name="display_elapsed_realtime_title">Afficher la veille système</string>
+    <string name="display_elapsed_realtime_message">Afficher le temps depuis le démarrage, avec le temps passé en veille profonde.</string>
+    <string name="display_details_title">Voir détails</string>
+    <string name="display_temperature_units_title">Unités de températures</string>
+    <string name="delimiter_comma" translatable="false">", "</string>
+    <string name="delimiter_line" translatable="false">" | "</string>
+    <string name="hide">Masquer</string>
+    <string name="none">Aucun</string>
+
+    <string name="health">Santé</string>
+    <string name="temperature">Température</string>
+    <string name="voltage">Tension</string>
+    <string name="technology">Technologie</string>
+
+    <string name="donate_title">Don</string>
+    <string name="donate_body">Montrez votre appréciation pour le temps et les efforts investis dans la création de l'extension de batterie pour DashClock en faisant un don à son développeur.</string>
+    <string name="donate_max">Wow, vous\ avez fait le montant maximum possible, merci!</string>
+    <string name="donate_thank_you">Merci pour votre soutien!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Montant</b>
+        ]]></string>
+
+    <string name="support_donate_title" translatable="false">@string/donate_title</string>
+    <string name="support_donate_summary">Montrez votre soutien pour l'extension de batterie DashClock.</string>
+    <string name="support_listing_title">Voir sur Google Play</string>
+    <string name="support_listing_summary">Partager, noter ou commenter l'extension de batterie DashClock.</string>
+    <string name="support_contact_title">Email du développeur</string>
+    <string name="support_contact_summary" translatable="false">@string/developer_email</string>
+    <string name="developer_email" translatable="false">android+dashclock@grantland.me</string>
+    <string name="email_subject" translatable="false">DashClock Battery Extension v%s</string>
+</resources>
