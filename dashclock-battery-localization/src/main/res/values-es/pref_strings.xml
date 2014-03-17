@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Translated by
+ * vAlmaraz <support@valmaraz.com>
+ */
+-->
+<resources>
+    <!-- Universal settings preferences -->
+    <string name="pref_shortcut_title">Enlace</string>
+    <string name="pref_shortcut_default">(Predeterminado)</string>
+    <string name="title_apps">Aplicaciones</string>
+    <string name="title_shortcuts">Enlaces</string>
+</resources>
