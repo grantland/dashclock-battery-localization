@@ -8,21 +8,21 @@
 <resources>
     <string name="extension_name">Batería</string>
     <string name="extension_description">Muestra el estado del nivel de carga y otra información sobre la batería.</string>
-    <string name="label_settings">Configuración</string>
+    <string name="label_settings">Configuración Battery Widget</string>
 
     <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
 
-    <string name="unknown">Desconocido </string>
+    <string name="unknown">Desconocido</string>
 
-    <string name="status_discharging">Descargando</string>
+    <string name="status_discharging">No se está cargando</string>
     <string name="status_charging">Cargando</string>
-    <string name="status_full">Cargado</string>
+    <string name="status_full">Completa</string>
     <string name="status_not_charging">No está cargando</string>
 
     <string name="charging_template">Carga (%s)</string>
     <string name="plugtype_ac">CA</string>
     <string name="plugtype_usb">USB</string>
-    <string name="plugtype_wireless">Wireless</string>
+    <string name="plugtype_wireless">Conexiones Inalámbricas</string>
 
     <string name="discharging_template">%s con la batería</string>
 
@@ -36,10 +36,10 @@
     <string name="elapsed_realtime">Standby: %s</string>
 
     <string name="template_health">Estado batería: %s</string>
-    <string name="health_good">Bueno</string>
-    <string name="health_overheat">Sobrecalentamiento </string>
-    <string name="health_dead">Descargada</string>
-    <string name="health_over_voltage">Sobretensiones</string>
+    <string name="health_good">Buena</string>
+    <string name="health_overheat">Sobrecalentamiento</string>
+    <string name="health_dead">Agotada</string>
+    <string name="health_over_voltage">Sobretensión</string>
     <string name="health_unspecified_failure">Error desconocido</string>
     <string name="health_cold">Frío</string>
 
@@ -93,7 +93,7 @@
     <string name="voltage">Voltaje</string>
     <string name="technology">Tecnología</string>
 
-    <string name="donate_title">Donación</string>
+    <string name="donate_title">Donar</string>
     <string name="donate_body">Muestre su agradecimiento por el tiempo y esfuerzo invertido en la creación de DashClock Battery Extension, haciendo una donación al desarrollador.</string>
     <string name="donate_max">Wow, ha donado la cantidad máxima, gracias!</string>
     <string name="donate_thank_you">Gracias por su apoyo!</string>
