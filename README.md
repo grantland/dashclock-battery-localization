@@ -7,6 +7,7 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 
 ## Credits
 
+* Chinese Simplified (zh-CN) - [郁飞](https://github.com/Felix2yu)
 * Dutch (nl)
 * German (de) - [Frederik Niedernolte](https://github.com/MaluNoPeleke)
 * Italian (it) - [Filippo Favaro](https://github.com/filippofavaro)
