@@ -13,6 +13,7 @@ https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 * Polish (pl) - Piotrek Paszek
 * Russian (ru) - [Victor Polupanov](https://github.com/androidsoft)
 * Slovak (sk) - [ja_som](https://github.com/ja-som)
+* Spanish (es) - [vAlmaraz](https://github.com/vAlmaraz)
 
 
 ## Providing Translations
