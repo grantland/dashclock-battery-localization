@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">DashClock Battery Extension</string>
-
     <string name="extension_name">电池</string>
     <string name="extension_description">显示充电状态、电量和其他电池的信息。</string>
     <string name="label_settings">电池扩展设置</string>
 
-    <string name="status_template" translatable="false">%d%%</string>
     <string name="dock_template" formatted="false">基座：%d%% — %s</string>
-    <string name="title_template" formatted="false" translatable="false">%d%% — %s</string>
 
     <string name="unknown">未知</string>
 
-    <!-- battery_info_status_unknown -->
-    <string name="status_unknown" translatable="false">@string/unknown</string>
     <!-- battery_info_status_discharging AOSP: Not charging -->
     <string name="status_discharging">未在充电</string>
     <!-- battery_info_status_charging -->
@@ -43,8 +37,6 @@
     <string name="elapsed_realtime">待机运行 %s</string>
 
     <string name="template_health">电池运行状况：%s</string>
-    <!-- battery_info_health_unknown -->
-    <string name="health_unknown" translatable="false">@string/unknown</string>
     <!-- battery_info_health_good -->
     <string name="health_good">正常</string>
     <!-- battery_info_health_overheat -->
@@ -57,14 +49,6 @@
     <string name="health_unspecified_failure">未知错误</string>
     <!-- battery_info_health_cold -->
     <string name="health_cold">电量低</string>
-
-    <string name="template_temperature" formatted="false" translatable="false">%.1f%s</string>
-    <string name="abrv_celsius" translatable="false">°C</string>
-    <string name="abrv_fahrenheit" translatable="false">°F</string>
-
-    <string name="template_voltage" translatable="false">%dmV</string>
-
-    <string name="battery_history" formatted="false" translatable="false">%s %s</string>
 
     <plurals name="days">
         <item quantity="one">%d 天</item>
@@ -90,9 +74,6 @@
     <string name="about">关于</string>
     <string name="close">关闭</string>
 
-    <string name="app_name_and_version" translatable="false"><![CDATA[
-        <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
-    ]]></string>
     <string name="about_body"><![CDATA[
         <a href="https://twitter.com/grantland>Grantland Chew</a> <b>开发</b> 
         <br /><br />
@@ -111,8 +92,6 @@
     <string name="display_elapsed_realtime_message">显示自启动以来系统运行时间，也包含深度睡眠的时间。</string>
     <string name="display_details_title">显示详情</string>
     <string name="display_temperature_units_title">温度单位</string>
-    <string name="delimiter_comma" translatable="false">", "</string>
-    <string name="delimiter_line" translatable="false">" | "</string>
     <string name="hide">隐藏</string>
     <string name="none">无</string>
 
@@ -134,12 +113,8 @@
         <b>金额</b>
         ]]></string>
 
-    <string name="support_donate_title" translatable="false">@string/donate_title</string>
     <string name="support_donate_summary">表达您对本应用的支持。</string>
     <string name="support_listing_title">在 Google Play 商店中查看</string>
     <string name="support_listing_summary">分享、评分、+1 或为本应用发表评论。</string>
     <string name="support_contact_title">给开发者发送电子邮件</string>
-    <string name="support_contact_summary" translatable="false">@string/developer_email</string>
-    <string name="developer_email" translatable="false">android+dashclock@grantland.me</string>
-    <string name="email_subject" translatable="false">DashClock Battery Extension v%s</string>
 </resources>
