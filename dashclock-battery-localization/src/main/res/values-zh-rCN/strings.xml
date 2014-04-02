@@ -51,22 +51,18 @@
     <string name="health_cold">电量低</string>
 
     <plurals name="days">
-        <item quantity="one">%d 天</item>
         <item quantity="other">%d 天</item>
     </plurals>
 
     <plurals name="hours">
-        <item quantity="one">%d 小时</item>
         <item quantity="other">%d 小时</item>
     </plurals>
 
     <plurals name="minutes">
-        <item quantity="one">%d 分</item>
         <item quantity="other">%d 分</item>
     </plurals>
 
     <plurals name="seconds">
-        <item quantity="one">%d 秒</item>
         <item quantity="other">%d 秒</item>
     </plurals>
 
