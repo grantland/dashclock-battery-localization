@@ -11,9 +11,9 @@
     <!-- battery_info_status_discharging AOSP: Not charging -->
     <string name="status_discharging">פריקה</string>
     <!-- battery_info_status_charging -->
-    <string name="status_charging">טעינה</string>
+    <string name="status_charging">טוען</string>
     <!-- battery_info_status_full AOSP: Full -->
-    <string name="status_full">טעון במלואו</string>
+    <string name="status_full">מלא</string>
     <!-- battery_info_status_not_charging -->
     <string name="status_not_charging">לא טוען</string>
 
@@ -38,17 +38,17 @@
 
     <string name="template_health">בריאות: %s</string>
     <!-- battery_info_health_good -->
-    <string name="health_good">טובה</string>
+    <string name="health_good">טוב</string>
     <!-- battery_info_health_overheat -->
-    <string name="health_overheat">התחממות יתר</string>
+    <string name="health_overheat">חימום יתר</string>
     <!-- battery_info_health_dead -->
-    <string name="health_dead">מתה</string>
+    <string name="health_dead">ריקה</string>
     <!-- battery_info_health_over_voltage -->
-    <string name="health_over_voltage">מתח יתר</string>
+    <string name="health_over_voltage">מתח חשמלי גבוה</string>
     <!-- battery_info_health_unspecified_failure AOSP: Unknown error -->
     <string name="health_unspecified_failure">כשל לא מזוהה</string>
     <!-- battery_info_health_cold -->
-    <string name="health_cold">קרה</string>
+    <string name="health_cold">קר</string>
 
     <plurals name="days">
         <item quantity="one">יום %d</item>
