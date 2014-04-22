@@ -7,8 +7,8 @@
     <string name="label_settings">Battery Extension Settings</string>
 
     <string name="status_template" translatable="false">%d%%</string>
-    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
-    <string name="title_template" formatted="false" translatable="false">%d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
+    <string name="title_template" translatable="false">%1$d%% — %2$s</string>
 
     <string name="unknown">Unknown</string>
 
@@ -58,13 +58,13 @@
     <!-- battery_info_health_cold -->
     <string name="health_cold">Cold</string>
 
-    <string name="template_temperature" formatted="false" translatable="false">%.1f%s</string>
+    <string name="template_temperature" translatable="false">%1$.1f%2$s</string>
     <string name="abrv_celsius" translatable="false">°C</string>
     <string name="abrv_fahrenheit" translatable="false">°F</string>
 
     <string name="template_voltage" translatable="false">%dmV</string>
 
-    <string name="battery_history" formatted="false" translatable="false">%s %s</string>
+    <string name="battery_history" translatable="false">%1$s %2$s</string>
 
     <plurals name="days">
         <item quantity="one">%d day</item>

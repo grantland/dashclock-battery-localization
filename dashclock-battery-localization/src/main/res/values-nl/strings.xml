@@ -4,7 +4,7 @@
     <string name="extension_description">Toont de accu status, niveau and andere informatie.</string>
     <string name="label_settings">Battery Extension instellingen</string>
 
-    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
 
     <string name="unknown">Onbekend</string>
 

@@ -10,7 +10,7 @@
     <string name="extension_description">Zobrazí stav nabíjania, úroveň a ďalšie informácie ohľadom batérie.</string>
     <string name="label_settings">Nastavenia rozšírenia</string>
 
-    <string name="dock_template" formatted="false">Dok: %d%% — %s</string>
+    <string name="dock_template">Dok: %1$d%% — %2$s</string>
 
     <string name="unknown">Neznáme</string>
 

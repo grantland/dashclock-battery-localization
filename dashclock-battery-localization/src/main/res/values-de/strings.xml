@@ -4,7 +4,7 @@
     <string name="extension_description">Zeigt den Ladestatus, Höhe, und andere Informationen zum Akku an.</string>
     <string name="label_settings">Battery Extension Einstellungen</string>
 
-    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
 
     <string name="unknown">Unbekannt</string>
 

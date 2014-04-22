@@ -10,7 +10,7 @@
     <string name="extension_description">Muestra el estado del nivel de carga y otra información sobre la batería.</string>
     <string name="label_settings">Configuración Extensión Batería</string>
 
-    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
 
     <string name="unknown">Desconocido</string>
 

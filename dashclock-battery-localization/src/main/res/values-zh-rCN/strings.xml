@@ -4,7 +4,7 @@
     <string name="extension_description">显示充电状态、电量和其他电池的信息。</string>
     <string name="label_settings">电池扩展设置</string>
 
-    <string name="dock_template" formatted="false">基座：%d%% — %s</string>
+    <string name="dock_template" formatted="false">基座：%1$d%% — %2$s</string>
 
     <string name="unknown">未知</string>
 
