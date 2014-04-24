@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="true">Extension de batterie pour Dashclock</string>
+    <string name="app_name" translatable="true">Extension de Batterie pour DashClock</string>
 
     <string name="extension_name">Batterie</string>
     <string name="extension_description">Affiche l'\état et le niveau de charge ainsi que d'\autres informations à propos de la batterie.</string>
@@ -34,7 +34,7 @@
     <string name="discharging_template">%s sur batterie</string>
 
     <string name="estimating_time">Calcul du temps</string>
-    <string name="remaining_on_battery">%s restant>
+    <string name="remaining_on_battery">%s restant(e)s>
     <string name="until_full">%s jusqu'\à charge complète</string>
     <string name="remaining_not_charging">La batterie n'\est pas en charge</string>
     <string name="remaining_full">Batterie chargée</string>
@@ -100,7 +100,7 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
-    <string name="display_when_title">Afficher l'\extension de batterie</string>
+    <string name="display_when_title">Afficher l'\Extension de Batterie</string>
     <string name="display_time_on_battery_title">Afficher le temps passé sur batterie</string>
     <string name="display_time_on_battery_message">Affiche le temps pendant lequel l'\appareil a fonctionné sur batterie.</string>
     <string name="display_time_remaining_title">Afficher le temps restant/jusqu'\à charge complète</string>
@@ -114,7 +114,7 @@
     <string name="delimiter_comma" translatable="false">", "</string>
     <string name="delimiter_line" translatable="false">" | "</string>
     <string name="hide">Cacher</string>
-    <string name="none">Néant</string>
+    <string name="none">Aucun</string>
 
     <string name="health">Etat</string>
     <string name="temperature">Température</string>
