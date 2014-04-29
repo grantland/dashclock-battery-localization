@@ -100,6 +100,8 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">Display</string>
+    <string name="category_support">Support</string>
     <string name="display_when_title">Show battery extension</string>
     <string name="display_time_on_battery_title">Show time on battery</string>
     <string name="display_time_on_battery_message">Show the amount of time the device has been running on battery.</string>
