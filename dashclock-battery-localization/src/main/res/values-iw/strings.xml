@@ -75,16 +75,18 @@
     <string name="close">סגירה</string>
 
     <string name="about_body"><![CDATA[
-        <b>by</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <b>מאת</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
         <br /><br />
         תודה רבה ל-<a href="https://twitter.com/romannurik">Roman Nurik</a> עבור <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> והפיכת הפרוייקט לקוד פתוח.
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">תצוגה</string>
+    <string name="category_support">תמיכה</string>
     <string name="display_when_title">הצגת סיומת סוללה</string>
     <string name="display_time_on_battery_title">הצגת זמן על סוללה</string>
     <string name="display_time_on_battery_message">מציג את כמות הזמן שהמכשיר פועל על סוללה.</string>
-    <string name="display_time_remaining_title">הצגת זמן נותר/ זמן עד מלאה</string>
+    <string name="display_time_remaining_title">הצגת זמן נותר/זמן עד מלאה</string>
     <string name="display_time_remaining_message">מציג את כמות הזמן שנותרה כאשר על סוללה וזמן עד טעינה מלאה.</string>
     <string name="display_uptime_title">הצגת שימוש המערכת</string>
     <string name="display_uptime_message">מציג את כמות הזמן מאז האתחול, לא כולל הזמן שבשינה עמוקה.</string>
@@ -116,5 +118,5 @@
     <string name="support_donate_summary">הראו את תמיכתם עבור DashClock Battery Extension.</string>
     <string name="support_listing_title">הצגה ב-Google Play</string>
     <string name="support_listing_summary">שתפו, דרגו, 1+ או הגיבו על DashClock Battery Extension.</string>
-    <string name="support_contact_title">שלחו דוא"ל למפתח</string>
+    <string name="support_contact_title">שליחת דוא"ל למפתח</string>
 </resources>
