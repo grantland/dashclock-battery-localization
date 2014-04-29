@@ -17,7 +17,7 @@
     <!-- battery_info_status_not_charging -->
     <string name="status_not_charging">未在充电</string>
 
-    <string name="charging_template">正在充电（%s）</string>
+    <string name="charging_template">%s充电中</string>
     <!-- battery_info_status_charging_ac -->
     <string name="plugtype_ac">交流电</string>
     <!-- battery_info_status_charging_usb -->
@@ -28,8 +28,8 @@
     <string name="discharging_template">电池已用 %s</string>
 
     <string name="estimating_time">时间计算中</string>
-    <string name="remaining_on_battery">剩余 %s</string>
-    <string name="until_full">%s 后充满</string>
+    <string name="remaining_on_battery">剩余可用 %s</string>
+    <string name="until_full">充满尚需 %s</string>
     <string name="remaining_not_charging">电池未在充电</string>
     <string name="remaining_full">电量充足</string>
 
@@ -77,6 +77,8 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">显示</string>
+    <string name="category_support">支持</string>
     <string name="display_when_title">电池扩展显示信息</string>
     <string name="display_time_on_battery_title">显示电池使用时间</string>
     <string name="display_time_on_battery_message">显示本设备电池已用的时间。</string>
