@@ -4,7 +4,7 @@
     <string name="extension_description">Afficher l\'état de charge, le niveau et les autres informations de la batterie.</string>
     <string name="label_settings">Paramètres de l\'Extension de Batterie</string>
 
-    <string name="dock_template">Dock: %d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
 
     <string name="unknown">Inconnu</string>
 
