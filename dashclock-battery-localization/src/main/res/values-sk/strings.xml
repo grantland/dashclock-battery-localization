@@ -12,7 +12,7 @@
 
     <string name="dock_template">Dok: %1$d%% — %2$s</string>
 
-    <string name="unknown">Neznáme</string>
+    <string name="unknown">neznámy</string>
 
     <string name="status_discharging">Vybíjanie</string>
     <string name="status_charging">Nabíjanie</string>
@@ -22,12 +22,12 @@
     <string name="charging_template">Nabíjanie (%s)</string>
     <string name="plugtype_ac">AC</string>
     <string name="plugtype_usb">USB</string>
-    <string name="plugtype_wireless">Bezdrôtovo</string>
+    <string name="plugtype_wireless">bezdrôtovo</string>
 
     <string name="discharging_template">%s na batérii</string>
 
-    <string name="estimating_time">Vypočítavam čas</string>
-    <string name="remaining_on_battery">%s ostáva</string>
+    <string name="estimating_time">Vypočítavanie času</string>
+    <string name="remaining_on_battery">%s do vybitia</string>
     <string name="until_full">%s do nabitia</string>
     <string name="remaining_not_charging">Batéria sa nenabíja</string>
     <string name="remaining_full">Batéria je nabitá</string>
@@ -36,31 +36,31 @@
     <string name="elapsed_realtime">Pohotovostný režim: %s</string>
 
     <string name="template_health">Zdravie: %s</string>
-    <string name="health_good">Dobrá</string>
-    <string name="health_overheat">Prehriata</string>
-    <string name="health_dead">Mŕtva</string>
-    <string name="health_over_voltage">Vysoké napätie</string>
-    <string name="health_unspecified_failure">Nešpecifikované zlyhanie</string>
-    <string name="health_cold">Studená</string>
+    <string name="health_good">dobré</string>
+    <string name="health_overheat">prehriata</string>
+    <string name="health_dead">mŕtva</string>
+    <string name="health_over_voltage">vysoké napätie</string>
+    <string name="health_unspecified_failure">nešpecifikované zlyhanie</string>
+    <string name="health_cold">studená</string>
 
     <plurals name="days">
-        <item quantity="one">%d deň</item>
-        <item quantity="other">%d dní</item>
+        <item quantity="one">%d d.</item>
+        <item quantity="other">%d d.</item>
     </plurals>
 
     <plurals name="hours">
-        <item quantity="one">%d hodina</item>
-        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hod.</item>
+        <item quantity="other">%d hod.</item>
     </plurals>
 
     <plurals name="minutes">
-        <item quantity="one">%d minúta</item>
-        <item quantity="other">%d minút</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="other">%d min.</item>
     </plurals>
 
     <plurals name="seconds">
-        <item quantity="one">%d sekunda</item>
-        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek.</item>
     </plurals>
 
     <!-- About -->
@@ -74,11 +74,13 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">Zobraziť</string>
+    <string name="category_support">Podpora</string>
     <string name="display_when_title">Zobraziť v rozšírení</string>
     <string name="display_time_on_battery_title">Zobraziť čas na batérii</string>
     <string name="display_time_on_battery_message">Zobrazí celkový čas koľko beží zariadenie na batérii.</string>
     <string name="display_time_remaining_title">Zobraziť ostávajúci čas/čas do úpného nabitia</string>
-    <string name="display_time_remaining_message">Zobrazí koľko času ostáva do vybitia, alebo do úplného nabitia pri nabíjaní.</string>
+    <string name="display_time_remaining_message">Zobrazí koľko času ostáva do vybitia alebo do úplného nabitia pri nabíjaní.</string>
     <string name="display_uptime_title">Zobraziť používanie systému</string>
     <string name="display_uptime_message">Zobrazí čas od spustenia zariadenia, s výnikou času, keď bolo v režime hlbokého spánku.</string>
     <string name="display_elapsed_realtime_title">Zobraziť pohotovostný režim systému</string>
@@ -106,8 +108,8 @@
         <b>Suma</b>
         ]]></string>
 
-    <string name="support_donate_summary">Podporte vývoj tohoto rozšírenia pre DashClock.</string>
+    <string name="support_donate_summary">Podporte vývoj tohto rozšírenia pre DashClock.</string>
     <string name="support_listing_title">Zobraziť v Obchode Play</string>
-    <string name="support_listing_summary">Zdieľajte, hodnoťte, dajte +1, alebo komentujte toto rozšírenie pre DashClock.</string>
+    <string name="support_listing_summary">Zdieľajte, hodnoťte, dajte +1 alebo komentujte toto rozšírenie pre DashClock.</string>
     <string name="support_contact_title">Poslať e-mail</string>
 </resources>
