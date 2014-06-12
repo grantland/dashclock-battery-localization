@@ -14,10 +14,10 @@
 
     <string name="unknown">neznámy</string>
 
-    <string name="status_discharging">vybíjanie</string>
-    <string name="status_charging">nabíjanie</string>
-    <string name="status_full">nabité</string>
-    <string name="status_not_charging">nenabíja</string>
+    <string name="status_discharging">Vybíjanie</string>
+    <string name="status_charging">Nabíjanie</string>
+    <string name="status_full">Nabité</string>
+    <string name="status_not_charging">Nenabíja</string>
 
     <string name="charging_template">Nabíjanie (%s)</string>
     <string name="plugtype_ac">AC</string>
