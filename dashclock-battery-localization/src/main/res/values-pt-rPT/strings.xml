@@ -81,6 +81,8 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">Visualização</string>
+    <string name="category_support">Suporte</string>
     <string name="display_when_title">Mostrar extensão de bateria</string>
     <string name="display_time_on_battery_title">Mostrar tempo em bateria</string>
     <string name="display_time_on_battery_message">Mostrar o total de tempo que o dispositivo tem estado em bateria.</string>
