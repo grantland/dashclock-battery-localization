@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extension_name">Bateria</string>
+    <string name="extension_description">Mostra o estado da carga, nível e outras informações sobre a bateria.</string>
+    <string name="label_settings">Definições da Extensão de Bateria</string>
+	
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
+
+    <string name="unknown">Desconhecido</string>
+
+    <!-- battery_info_status_discharging AOSP: Not charging -->
+    <string name="status_discharging">A descarregar</string>
+    <!-- battery_info_status_charging -->
+    <string name="status_charging">A carregar</string>
+    <!-- battery_info_status_full AOSP: Full -->
+    <string name="status_full">Carregado</string>
+    <!-- battery_info_status_not_charging -->
+    <string name="status_not_charging">Não está a carregar</string>
+
+    <string name="charging_template">A carregar (%s)</string>
+    <!-- battery_info_status_charging_ac -->
+    <string name="plugtype_ac">CA</string>
+    <!-- battery_info_status_charging_usb -->
+    <string name="plugtype_usb">USB</string>
+    <!-- battery_info_status_charging_wireless -->
+    <string name="plugtype_wireless">Sem fios</string>
+
+    <string name="discharging_template">%s em bateria</string>
+
+    <string name="estimating_time">A calcular o tempo</string>
+    <string name="remaining_on_battery">%s restante</string>
+    <string name="until_full">%s até ficar carregada</string>
+    <string name="remaining_not_charging">A bateria não está a carregar</string>
+    <string name="remaining_full">A bateria está carregada</string>
+
+    <string name="uptime">Utilização: %s</string>
+    <string name="elapsed_realtime">Em espera: %s</string>
+
+    <string name="template_health">Condição: %s</string>
+    <!-- battery_info_health_good -->
+    <string name="health_good">Bom</string>
+    <!-- battery_info_health_overheat -->
+    <string name="health_overheat">Sobreaquecido</string>
+    <!-- battery_info_health_dead -->
+    <string name="health_dead">Morto</string>
+    <!-- battery_info_health_over_voltage -->
+    <string name="health_over_voltage">Sobretensão</string>
+    <!-- battery_info_health_unspecified_failure AOSP: Unknown error -->
+    <string name="health_unspecified_failure">Falha Desconhecida</string>
+    <!-- battery_info_health_cold -->
+    <string name="health_cold">Frio</string>
+
+    <plurals name="days">
+        <item quantity="one">%d dia</item>
+        <item quantity="other">%d dias</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d horas</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minutos</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+
+    <!-- About -->
+    <string name="about">Sobre</string>
+    <string name="close">Fechar</string>
+
+    <string name="about_body"><![CDATA[
+        <b>por</b> <a href="https://twitter.com/grantland>Grantland Chew</a>
+        <br /><br />
+        Muito obrigado ao <a href="https://twitter.com/romannurik">Roman Nurik</a> pelo <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">DashClock</a> e por ter tornado o seu projeto software livre.
+    ]]></string>
+
+    <!-- BatterySettingsActivity -->
+    <string name="category_display">Visualização</string>
+    <string name="category_support">Suporte</string>
+    <string name="display_when_title">Mostrar extensão de bateria</string>
+    <string name="display_time_on_battery_title">Mostrar tempo em bateria</string>
+    <string name="display_time_on_battery_message">Mostrar o total de tempo que o dispositivo tem estado em bateria.</string>
+    <string name="display_time_remaining_title">Mostrar tempo restante/até que a bateria esteja carregada</string>
+    <string name="display_time_remaining_message">Mostrar o total de tempo restante ao usar a bateria e o tempo restante até a carga ficar completa.</string>
+    <string name="display_uptime_title">Mostrar utilização do sistema</string>
+    <string name="display_uptime_message">Mostrar o total de tempo desde o arranque, excluíndo o tempo em que o dispositivo esteve inativo.</string>
+    <string name="display_elapsed_realtime_title">Mostrar repouso do sistema</string>
+    <string name="display_elapsed_realtime_message">Mostrar o total de tempo desde o arranque, incluíndo o tempo em que o disposito esteve inativo.</string>
+    <string name="display_details_title">Mostrar detalhes</string>
+    <string name="display_temperature_units_title">Unidades de temperatura</string>
+    <string name="hide">Ocultar</string>
+    <string name="none">Nenhum</string>
+
+    <string name="health">Condição</string>
+    <string name="temperature">Temperatura</string>
+    <string name="voltage">Tensão</string>
+    <string name="technology">Tecnologia</string>
+
+    <string name="donate_title">Doar</string>
+    <string name="donate_body">Mostre a sua gratidão pelo tempo e esforço dedicados em criar a DashClock Battery Extension fazendo um donativo ao programador.</string>
+    <string name="donate_max">Uau, doou o montante máximo possível, obrigado!</string>
+    <string name="donate_thank_you">Obrigado pelo seu apoio!</string>
+    <!--
+    Alternatives:
+    Donate to support the development of DashClock Battery Extension.
+    Feel free to donate if you like DashClock Battery Extension. Not only will donations support continued development of this extension,
+    -->
+    <string name="amount_label"><![CDATA[
+        <b>Quantia</b>
+        ]]></string>
+
+    <string name="support_donate_summary">Mostre o seu apoio pela DashClock Battery Extension.</string>
+    <string name="support_listing_title">Ver no Google Play</string>
+    <string name="support_listing_summary">Partilhar, avaliar, +1 ou comentar sobre a DashClock Battery Extension.</string>
+    <string name="support_contact_title">Enviar e-mail ao programador</string>
+</resources>

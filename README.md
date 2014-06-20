@@ -5,21 +5,22 @@ This project contains all the localization strings for DashClock Battery Extensi
 https://play.google.com/store/apps/details?id=me.grantland.dashclock_battery
 
 
-## Current Translations
+## Credits
 
+* Chinese Simplified (zh-CN) - [郁飞](https://github.com/Felix2yu)
 * Dutch (nl)
-* Italian (it) - Favaro Filippo
+* French (fr) - [JacKSparr0W](https://github.com/JacKSparr0W), [Remy Garcia](https://github.com/remg64), [iNSiGhT59](https://github.com/iNSiGhT59)
+* German (de) - [Frederik Niedernolte](https://github.com/MaluNoPeleke)
+* Hebrew (iw) - [Mo r](https://plus.google.com/u/0/117226423321573290724)
+* Italian (it) - [Filippo Favaro](https://github.com/filippofavaro)
 * Polish (pl) - Piotrek Paszek
-* Russian (ru) - Victor Polupanov
-* Slovak (sk) - ja_som
-
-
-## Needed Translations
-
-* German (de)
+* Portuguese (pt_PT) - [André Silva](https://github.com/leplastic)
+* Russian (ru) - [Victor Polupanov](https://github.com/androidsoft)
+* Slovak (sk) - [ja_som](https://github.com/ja-som)
+* Spanish (es) - [vAlmaraz](https://github.com/vAlmaraz)
 
 
 ## Providing Translations
 
-Any translations would be greatly appreciated.
+Any translations would be greatly appreciated!
 

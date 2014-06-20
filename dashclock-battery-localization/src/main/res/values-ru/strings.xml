@@ -6,11 +6,11 @@
 */
 -->
 <resources>
-    <string name="extention_name">Батарея</string>
+    <string name="extension_name">Батарея</string>
     <string name="extension_description">Отображает состояние батареи, уровень заряда и другую информацию.</string>
     <string name="label_settings">Настройки</string>
 
-    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
 
     <string name="unknown">Неизвестно</string>
 
