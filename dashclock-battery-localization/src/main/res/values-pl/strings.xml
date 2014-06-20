@@ -6,11 +6,11 @@
  */
 -->
 <resources>
-    <string name="extention_name">Bateria</string>
+    <string name="extension_name">Bateria</string>
     <string name="extension_description">Pokazuje stan naładowania, poziom baterii i inne informacje z nią związane.</string>
     <string name="label_settings">Ustawienia Battery Extension</string>
 
-    <string name="dock_template" formatted="false">Dock: %d%% — %s</string>
+    <string name="dock_template">Dock: %1$d%% — %2$s</string>
 
     <string name="unknown">Nieznany</string>
 
