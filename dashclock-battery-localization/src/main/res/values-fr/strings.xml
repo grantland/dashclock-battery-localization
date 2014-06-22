@@ -27,16 +27,16 @@
 
     <string name="discharging_template">%s sur batterie</string>
 
-    <string name="estimating_time">Calcule du temps</string>
+    <string name="estimating_time">Calcul du temps</string>
     <string name="remaining_on_battery">%s restant</string>
     <string name="until_full">%s avant la charge complète</string>
     <string name="remaining_not_charging">La batterie ne charge pas</string>
     <string name="remaining_full">Batterie chargée</string>
 
-    <string name="uptime">Utilisation: %s</string>
-    <string name="elapsed_realtime">En veille: %s</string>
+    <string name="uptime">Utilisation : %s</string>
+    <string name="elapsed_realtime">En veille : %s</string>
 
-    <string name="template_health">Etat: %s</string>
+    <string name="template_health">Etat : %s</string>
     <!-- battery_info_health_good -->
     <string name="health_good">Bonne</string>
     <!-- battery_info_health_overheat -->
@@ -44,7 +44,7 @@
     <!-- battery_info_health_dead -->
     <string name="health_dead">Vide</string>
     <!-- battery_info_health_over_voltage -->
-    <string name="health_over_voltage">Surtensions</string>
+    <string name="health_over_voltage">Surtension</string>
     <!-- battery_info_health_unspecified_failure AOSP: Unknown error -->
     <string name="health_unspecified_failure">Défaut non spécifié</string>
     <!-- battery_info_health_cold -->
@@ -81,6 +81,8 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">Affichage</string>
+ +  <string name="category_support">Aide</string>
     <string name="display_when_title">Afficher l\'extension de batterie</string>
     <string name="display_time_on_battery_title">Afficher le temps sur batterie</string>
     <string name="display_time_on_battery_message">Afficher la quantité de temps en cours d\'exécution sur la batterie.</string>
@@ -91,7 +93,7 @@
     <string name="display_elapsed_realtime_title">Afficher la veille système</string>
     <string name="display_elapsed_realtime_message">Afficher le temps depuis le démarrage, avec le temps passé en veille profonde.</string>
     <string name="display_details_title">Voir détails</string>
-    <string name="display_temperature_units_title">Unités de températures</string>
+    <string name="display_temperature_units_title">Unités de température</string>
     <string name="hide">Masquer</string>
     <string name="none">Aucun</string>
 
@@ -102,7 +104,7 @@
 
     <string name="donate_title">Donner</string>
     <string name="donate_body">Montrez votre appréciation pour le temps et les efforts investis dans la création de l\'extension de batterie pour DashClock en faisant un don à son développeur.</string>
-    <string name="donate_max">Wow, vous\ avez fait le montant maximum possible, merci!</string>
+    <string name="donate_max">Wow, vous\ avez donné le montant maximum possible, merci!</string>
     <string name="donate_thank_you">Merci pour votre soutien!</string>
     <!--
     Alternatives:
