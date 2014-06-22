@@ -74,6 +74,8 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+    <string name="category_display">Отображение</string>
+    <string name="category_support">Поддержка</string>
     <string name="display_when_title">Показать информацию</string>
     <string name="display_time_on_battery_title">Время работы от батареи</string>
     <string name="display_time_on_battery_message">Отображает время работы от батареи</string>
