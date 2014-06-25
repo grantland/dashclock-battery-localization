@@ -100,6 +100,8 @@
     ]]></string>
 
     <!-- BatterySettingsActivity -->
+	<string name="category_display">Anzeige</string>
+	<string name="category_support">Unterstützung</string>
     <string name="display_when_title">Zeige Akku Erweiterung</string>
     <string name="display_time_on_battery_title">Zeige Zeit mit Akku</string>
     <string name="display_time_on_battery_message">Zeige wie lange der Akku schon entlädt.</string>
