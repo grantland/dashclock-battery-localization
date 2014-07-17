@@ -27,7 +27,7 @@
     <string name="discharging_template">%s con la batería</string>
 
     <string name="estimating_time">Tiempo estimado</string>
-    <string name="remaining_on_battery">%s restande</string>
+    <string name="remaining_on_battery">%s restante</string>
     <string name="until_full">%s para finalizar</string>
     <string name="remaining_not_charging">No está cargando</string>
     <string name="remaining_full">Cargado</string>
